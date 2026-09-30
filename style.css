@@ -6,3 +6,15 @@ body {
     margin: 0 auto;
     padding: 20px;
 }
+nav {
+    background: #1e293b;
+    padding: 12px 20px;
+    border-radius: 6px;
+    margin-bottom: 20px;
+}
+
+nav a {
+    color: #93c5fd;
+    text-decoration: none;
+    margin-right: 16px;
+}
